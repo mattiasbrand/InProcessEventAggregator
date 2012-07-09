@@ -1,0 +1,1 @@
+A very simple event aggregator meant for use in process to decouple bounded contexts.
